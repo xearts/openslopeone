@@ -6,7 +6,13 @@ OpenSlopeOne is an implementation of Slope One based on PHP&MySQL, it's an open 
 
 It aims to a fast way to use Slope One with PHP&MySQL, and it can handle tons of data.
 
-It's localed on Google Code:http://code.google.com/p/openslopeone/
+It's localed on Google Code:
+
+    http://code.google.com/p/openslopeone/
+
+You can get the latest code here:
+
+    svn checkout https://openslopeone.googlecode.com/svn/trunk/openslopeone
 
 it uses Zend_Db as it's database layer.PHP5&MySQL5 or higher.
 
