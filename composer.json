@@ -1,0 +1,10 @@
+{
+    "name": "xearts/openslopeone",
+    "authors": [],
+    "require": {},
+    "autoload": {
+    	"classmap": [
+    		"openslopeone/OpenSlopeOne.php"
+    	]
+    }
+}
